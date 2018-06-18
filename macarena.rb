@@ -1,5 +1,5 @@
 puts "How To Do The Macarena:"
-puts "macarena"
+puts "macarena.rb"
 
 # Fix The Dance Instructions Below
 # Every line should have one instruction using puts.
