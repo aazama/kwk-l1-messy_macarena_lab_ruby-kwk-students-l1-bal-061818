@@ -1,4 +1,4 @@
-defined Macarena
+def Macarena
 puts "How To Do The Macarena:"
 puts "The correct sequence of steps for the Macarena are:"
 
