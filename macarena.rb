@@ -1,4 +1,4 @@
-def Macarena
+# def Macarena
 puts "How To Do The Macarena:"
 puts""
 # Fix The Dance Instructions Below
@@ -28,4 +28,4 @@ puts  "Bring your right hand up and around to the back of your head."
 
 # Step 8: FIXME
 puts "Bring your left hand up and around back your head."
-end
+# end
